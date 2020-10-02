@@ -1,0 +1,19 @@
+body {
+    background:white;
+}
+
+p{
+    font-size:35px;
+}
+
+button{
+    font-size:40px;
+}
+
+span{
+    font-size:30px;
+}
+
+label, input{
+    font-size:30px;
+}
